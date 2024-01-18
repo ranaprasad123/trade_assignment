@@ -1,0 +1,16 @@
+[
+	{
+		"trade_id": "T1",
+		"version": 2,
+		"counter_party_id": "CP-1",
+		"book_id": "B1",
+		"maturity_date": "17/01/2024"
+	},
+	{
+		"trade_id": "T1",
+		"version": 1,
+		"counter_party_id": "CP-1",
+		"book_id": "B1",
+		"maturity_date": "18/01/2025"
+	}
+]
